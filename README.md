@@ -1,1 +1,1 @@
-# it-just-mix-to-images
+# BASED ON CONVOLUTIONAL NEURAL NETWORK
