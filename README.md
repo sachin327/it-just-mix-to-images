@@ -7,7 +7,7 @@
   
 After convolution for horizontal and vertical lines
 
-  ![alt text](https://github.com/sachin327/it-just-mix-two-images/blob/master/d11.jpg)
+  ![alt text](https://github.com/sachin327/it-just-mix-two-images/blob/master/Screenshot (173).png)
 
 Background image
   
@@ -15,5 +15,5 @@ Background image
   
 Output image
 
-  ![alt text](https://github.com/sachin327/it-just-mix-two-images/blob/master/d11.jpg) 
+  ![alt text](https://github.com/sachin327/it-just-mix-two-images/blob/master/Screenshot (174).png) 
   
