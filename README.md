@@ -3,17 +3,17 @@
   
  Input image
  
-  ![alt text](https://github.com/sachin327/it-just-mix-two-images/blob/master/elon.jpg)  
+  ![alt text](https://github.com/sachin327/it-just-mix-two-images/blob/master/images/elon.jpg)  
   
 After convolution for horizontal and vertical lines
 
-  ![alt text](https://github.com/sachin327/it-just-mix-two-images/blob/master/Screenshot (173).png)
+  ![alt text](https://github.com/sachin327/it-just-mix-two-images/blob/master/images/Screenshot1.png)
 
 Background image
   
-  ![alt text](https://github.com/sachin327/it-just-mix-two-images/blob/master/d11.jpg) 
+  ![alt text](https://github.com/sachin327/it-just-mix-two-images/blob/master/images/d11.jpg) 
   
 Output image
 
-  ![alt text](https://github.com/sachin327/it-just-mix-two-images/blob/master/Screenshot (174).png) 
+  ![alt text](https://github.com/sachin327/it-just-mix-two-images/blob/master/images/Screenshot1.png) 
   
