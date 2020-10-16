@@ -7,13 +7,13 @@
   
 After convolution for horizontal and vertical lines
 
-  ![alt text](https://github.com/sachin327/Neural-Style-Transfer/blob/master/d6.jpg)
+  ![alt text](https://github.com/sachin327/it-just-mix-two-images/blob/master/d11.jpg)
 
 Background image
   
-  ![alt text](https://github.com/sachin327/Neural-Style-Transfer/blob/master/d6.jpg) 
+  ![alt text](https://github.com/sachin327/it-just-mix-two-images/blob/master/d11.jpg) 
   
 Output image
 
-  ![alt text](https://github.com/sachin327/Neural-Style-Transfer/blob/master/d6.jpg) 
+  ![alt text](https://github.com/sachin327/it-just-mix-two-images/blob/master/d11.jpg) 
   
