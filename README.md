@@ -15,5 +15,5 @@ Background image
   
 Output image
 
-  ![alt text](https://github.com/sachin327/it-just-mix-two-images/blob/master/images/Screenshot1.png) 
+  ![alt text](https://github.com/sachin327/it-just-mix-two-images/blob/master/images/Screenshot2.png) 
   
